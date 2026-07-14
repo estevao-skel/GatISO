@@ -1,25 +1,10 @@
-<img width="1276" height="859" alt="image" src="https://github.com/user-attachments/assets/4a88843e-6db8-4835-b14b-26c2e46007d4" />
-Gatito Linux UEFI É a versão do gatito linux pra UEFI, por isso, ele é um pouco mais pesado por que é em UEFI
+Gatito Linux is an distro made by me, that has the only objective of being **the smallest distro while functional**, well, you may say: "wym functional", i will explain to you.
+What i define an "functional" distro is: you can boot into it, it has an functional init & an functionall shell where you can write commands on it. Only that, internet, graphics, games, browsers or even editors for me are not 100% needed in an functional distro, OF COURSE if i can, they would appear in gatito linux, but the main objective is being the smallest distro while functional, as said before.
 
-Tamanho: 9.1MB
+Minimal requirements:
+16mb of ram (probably 20mb if you want to be comfortable but i didnt saw any problems with the minimal requirements while normal using it)
+ANY cpu x86_64 (it only works on amd 64 bits, as the entire src is made in assembly 64 bits for pcs, it DOESNT work on any RISC, AARCH64 or any CELLPHONE)
+2MB of storage (yes, you can install it! i DONT recommend you to install on your main pc, i recommend you to install on an vm, i tested in QEMU, any bugs found in any other vms open an issue for them and i will try to solve it! just remember the disk you have to install it, it has to be an RAW DISK, not qcow2 or the vb format, raw, .img)
 
-Ram minima: recomendado entre uns 200mb de ram, é muito mais nao deu pra safar essa
-
-Sha256: be341e958f53869e3e124251cf248294ed12ff5de9231be678c6e6091d5feb8a
-
-Cpu recomendada: qualquer uma 64 bits, literalmente qualquer uma
-
-<img width="718" height="421" alt="image" src="https://github.com/user-attachments/assets/958bd29d-6f83-44dd-ae69-36c0ccb67a77" />
-Gatito Linux é a versão padrão do Gatito Linux, ela é para legacy, então é bem mais leve que a versão UEFI
-
-Tamanho 7.6MB
-
-Ram minima: 22mb de ram
-
-Sha256: 213da4460e2ee4db8bd0055a9237f361a1f3d2b7767f7714dc3c4ecc079ebfcf
-
-Cpu recomendada: qualquer uma 64 bits, literalmente qualquer uma
-
-**VALORES PODEM MUDAR, A ISO AINDA NÃO ESTÁ COMPLETA!**
-
-Obs: A iso ainda não funciona em pc real, apenas em vm. Eu ainda não descobri o motivo, mas qualquer ajuda será de grande apoio! :)
+Gatito Linux is a WIP! remember ANY of these things can change and somethings can be changed/erased.
+Thank you for reading it! :)
